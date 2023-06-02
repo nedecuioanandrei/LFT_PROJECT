@@ -1,0 +1,8 @@
+func main() -> int {
+	str1: string = "Str1";
+	{
+		str1: string = "Str2";
+		print(str1);
+	}
+	print(str1);
+}

@@ -1,0 +1,10 @@
+func main() -> int {
+	x: str = "ceva";
+	y: str = "ceva";
+
+	if (x == y) {
+		print("sunt egale");
+	} else {
+		print("nu sunt egale");
+	}
+}
